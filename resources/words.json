@@ -1,0 +1,38 @@
+{
+  "easy": [
+    "gato",
+    "sol",
+    "mesa",
+    "luz",
+    "casa",
+    "flor",
+    "rio",
+    "nuvem",
+    "pão",
+    "café"
+  ],
+  "medium": [
+    "biscoito",
+    "janela",
+    "caneta",
+    "tapete",
+    "carro",
+    "vento",
+    "relogio",
+    "barco",
+    "quadro",
+    "porta"
+  ],
+  "hard": [
+    "morango",
+    "abacaxi",
+    "abajur",
+    "elefante",
+    "computador",
+    "caderno",
+    "girassol",
+    "telefone",
+    "bicicleta",
+    "borboleta"
+  ]
+}
